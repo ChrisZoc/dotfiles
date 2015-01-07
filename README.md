@@ -1,2 +1,2 @@
-Este es mi primer readme
-paul montero
+Este es mi primer readme. 
+Es el comienzo
